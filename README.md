@@ -1,1 +1,1 @@
-# ENCRYPTIX
+# data science job salaries EDA
